@@ -1,3 +1,11 @@
+Aula ministrada pelo instrutor Wesley Fuchter no bootcampo Inter Java da Digital Innovation One (DIO)
+
+Não foram feitas nenhuma alteração no projeto original.
+
+Endereço do projeto original: https://github.com/wesleyfuchter/cqrs-quarkus-eks
+
+
+
 ## About CQRS - Command Query Responsibility Segregation
 
 According with [Martin Folwer](https://martinfowler.com/bliki/CQRS.html) 
